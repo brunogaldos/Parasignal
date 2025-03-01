@@ -3,7 +3,7 @@
 ## Overview
 ParaAgent is a Telegram bot that enables users to:
 
-- Create a pre-generated Para wallet using the `/setuptrade <email>` command.
+- Create a pre-generated Para wallet using the `/setuptrade <email>` command. (The pregenerated wallet is an EVM wallet on Polygon Amoy)
 - Send POL tokens to a specified wallet using the `/sendPol <wallet_address> <pol_amount>` command.
 
 ### Project Structure
@@ -101,6 +101,8 @@ This command sends the specified amount of POL tokens to the given wallet.
 5. Open a pull request.
 
 ---
+
+<img width="670" alt="Para Signal Bot" src="https://github.com/user-attachments/assets/c6939e5a-1e11-454e-bfe1-fb19dd17aa7a" />
 
 ## License
 This project is licensed under the **MIT License**.
