@@ -74,6 +74,11 @@ This command generates a wallet for the given email.
 This command sends the specified amount of POL tokens to the given wallet.
 
 ---
+## Demonstration
+<img width="670" alt="Para Signal Bot" src="https://github.com/user-attachments/assets/022fded1-40ab-4463-913d-6042d257b4c8" />
+
+---
+
 
 ## Technologies Used
 - **Node.js / Telegraf** - Telegram Bot & API interactions
@@ -102,7 +107,7 @@ This command sends the specified amount of POL tokens to the given wallet.
 
 ---
 
-<img width="670" alt="Para Signal Bot" src="https://github.com/user-attachments/assets/c6939e5a-1e11-454e-bfe1-fb19dd17aa7a" />
+
 
 ## License
 This project is licensed under the **MIT License**.
