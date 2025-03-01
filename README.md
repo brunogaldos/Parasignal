@@ -75,7 +75,8 @@ This command sends the specified amount of POL tokens to the given wallet.
 
 ---
 ## Demonstration
-<img width="670" alt="Para Signal Bot" src="https://github.com/user-attachments/assets/022fded1-40ab-4463-913d-6042d257b4c8" />
+<img width="670" alt="Para Signal Bot(1)" src="https://github.com/user-attachments/assets/58e3f083-9526-4bb9-b8f0-0081dfa89ba8" />
+
 
 ---
 
